@@ -29,7 +29,7 @@ Output:
 `What file would you like to know more about?`
 
 ```
-What would you like to know about the following file: file_info.c`
+What would you like to know about the following file: file_info.c
 Your options are:
 - File_Name
 - I-Node_Number
