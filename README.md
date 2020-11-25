@@ -24,8 +24,6 @@ Input:
 
 Output:
 
-`File Name: sample.c`
-
 `What file would you like to know more about?`
 
 ```
